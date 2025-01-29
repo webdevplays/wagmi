@@ -16,7 +16,7 @@ document.querySelectorAll('.nav-link').forEach(link => {
 
 // Redirect to Buy Now in a New Tab
 function redirectToBuy() {
-    window.open("https://dexscreener.com/solana/2iweddfzuhix2xyvtkwdwynxh4eyq49ajtvgquozvnr4", "_blank"); 
+    window.open("https://dexscreener.com/solana/00000000000000000000000", "_blank"); 
 }
 
 // Copy Contract Address
